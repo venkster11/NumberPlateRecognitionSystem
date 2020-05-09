@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17697110371",
+    "firebase_url": "https://numberplatedetection-1efcb.firebaseio.com",
+    "project_id": "numberplatedetection-1efcb",
+    "storage_bucket": "numberplatedetection-1efcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17697110371:android:4e274f1ddaff18644fbb56",
+        "android_client_info": {
+          "package_name": "com.venkat.numberplatedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17697110371-hc7236sgi8st95blga3c613q9e68ace9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkat.numberplatedetection",
+            "certificate_hash": "a2431be596fd2012a36cc225ed95dd98768d9993"
+          }
+        },
+        {
+          "client_id": "17697110371-f5j250j48h558tnq8s7dmub20vci5062.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkoKT7F-Jpvqf5N1ZMzT5aZIEQjQ1FUW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17697110371-f5j250j48h558tnq8s7dmub20vci5062.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
